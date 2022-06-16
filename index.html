@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./media.css">
+    <script defer src="./scripts.js"></script>
+    <title>Calcule a quantidade ideal de água por dia</title>
+</head>
+
+<body>
+    <section class="container-water">
+        <div class="image-water">
+            <img src="./Images/water-bottle.png" alt="Água e Garrafa">
+        </div>
+        <div class="info-form">
+            <h2>Quer saber quanto você deve beber de água por dia?</h2>
+            <label>Informe seu peso: <input id="weight-inform" type="number"> Kg</label>
+            <button onclick="calcWater()" class="calc-btn">calcular</button>
+     <div id="result">
+        <!-- <img src="./Images/empty-glass.svg" alt="copo de água"> -->
+     </div>       
+    </section>
+    
+</body>
+
+</html>
