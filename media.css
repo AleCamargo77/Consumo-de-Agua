@@ -1,0 +1,6 @@
+@media (width: 500px){
+    body{
+        max-width: 90%;
+        margin: 2em;
+    }
+}

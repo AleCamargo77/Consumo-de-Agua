@@ -64,41 +64,11 @@
 } 
 
 .resultContainer {
-    display: block;
+    /* display: none; */
     background-color: #57b2de;
     height: 20vh;
     width: 53vh;
     line-height: 2em;
     border-radius: 10px;
     padding-top: 1em;
-} 
-
-#btn-clear {
-    background-color: #fff;
-    border: 1px solid #3b3e8c;
-    border-radius: 10px;
-    height: 3em;
-    width: 25em;
-    color: #3b3e8c;
-    font-weight: 700;
-    text-transform: uppercase;
-    margin-bottom: 1em;
 }
-
-#btn-clear:hover {
-    background-color: #3b3e8c;
-    color: #fff;
-}
-
-#div{
-    display: none;
-    background-color: #57b2de;
-    text-align: center;
-    height: 20vh;
-    width: 53vh;
-    line-height: 2em;
-    border-radius: 10px;
-    padding-top: 1em;
-}
-
-
