@@ -1,6 +1,22 @@
-@media (width: 500px){
-    body{
-        max-width: 90%;
-        margin: 2em;
+@media (max-width: 550px){
+    body {
+        width: 80%;
+        margin: 0 40px;
+        margin-top: 2em;
     }
+
+    .info-form h2{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .calc-btn, #btn-clear{
+        width: 23em;
+        text-align: center;
+    }
+
+    .resultContainer {
+        width: 15em;
+    } 
+
 }
