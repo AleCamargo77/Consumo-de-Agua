@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
     background: #57b2de;
+=======
+    background-color: #57b2de;
+>>>>>>> 95a09315425e3adabb640faa22494970665bff1c
 }
 
 .container-water {
