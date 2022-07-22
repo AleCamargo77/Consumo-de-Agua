@@ -19,8 +19,7 @@ Desenvolvido com HTML, CSS e JS.
 Inicialmente utilizado HTML e suas tags semânticas para montagem do corpo da página. No CSS, utilizado recursos para estilização e efeitos animados para garantir uma experiência ao usuário mais eficaz. Além de criar a aplicação de maneira responsiva, utilizando o processo de Mobile First. E por fim, trabalhado com funções, manipulação de DOM e condições booleanas dentro do JavaScript.
   
  Interface:
-  
-![Consumo de água](https://user-images.githubusercontent.com/105398640/177538323-722945de-c325-4202-8727-d5cdfe4a0fc2.jpg)
+  ![agua](https://user-images.githubusercontent.com/105398640/180494987-1deea297-16fd-40bd-9c03-19e0fd0004ec.jpg)
 
 
 
