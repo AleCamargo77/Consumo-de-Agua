@@ -20,15 +20,21 @@
             <h2>Quer saber quanto você deve beber de água por dia?</h2>
             <label>Informe seu peso: <input id="weight-inform" type="number"> Kg</label>
             <button onclick="calcWater()" class="calc-btn">calcular</button>
-            <div class="resultContainer" id="div">
-                <div id="resWater">            
-                </div>
-                <div id="resultCups">
-                </div>
-                <div id="resultBottles">
-                </div>
+        </div>
+
+        <div class="resultContainer" id="div">
+            <h2>Seu consumo ideal é:</h2>
+            <div id="resWater"></div>
+            <small>Litros de água por dia</small>
+            <div class="images">
+                <img src="./Images/copo.png" alt="garrafa">
+                <img src="./Images/garrafa_black.png" alt="copo">
             </div>
-            <button onclick="clearValues()" id="btn-clear">Limpar</button>
+            <div class="results-cups">
+                <div id="resultCups"></div>
+                <div id="resultBottles"></div>
+            </div>
+        </div>
     </section>
 </body>
 
